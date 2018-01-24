@@ -1,4 +1,4 @@
 # IPC-144
 Workshops and Assignments
 
-read ReadMeFirst
+read ReadMeFirst first then look at other stuff.:) 
