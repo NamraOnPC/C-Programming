@@ -1,9 +1,4 @@
-// Name :- Namra Fanse 
-// Student Number :- 112219175
-// Email :- nrfanse@myseneca.ca
-// Workshop :- 5 
-// Section - IPC144SXX 
-// Date :- 11/10/2017 
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
